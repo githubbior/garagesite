@@ -1,7 +1,7 @@
 {
   "name": "Gestión de Pagos de Garage",
   "short_name": "Cochera",
-  "start_url": "/index.html",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "theme_color": "#28a745",
