@@ -1,8 +1,8 @@
 {
   "name": "Gestión de Pagos de Garage",
   "short_name": "Cochera",
-  "start_url": "/garagesite/index.html",
-  "scope": "/garagesite/",
+  "start_url": "/?i=1",
+  "scope": "/",
   "display": "standalone",
   "theme_color": "#28a745",
   "background_color": "#ffffff",
